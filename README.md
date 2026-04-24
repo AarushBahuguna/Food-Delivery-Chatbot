@@ -45,7 +45,7 @@ food_delivery_chatbot/
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/your-username/food_delivery_chatbot.git
+   git clone https://github.com/aarushbahuguna/food_delivery_chatbot.git
    cd food_delivery_chatbot
    ```
 
@@ -58,7 +58,7 @@ food_delivery_chatbot/
 3. **Configure Environment Variables:**
    Create a `.env` file in the root directory of the project and add your Gemini API Key:
    ```env
-   GEMINI_API_KEY=your_actual_api_key_here
+   GEMINI_API_KEY=your_api_key_here
    ```
 
 ## 🎮 Usage
